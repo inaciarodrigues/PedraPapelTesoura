@@ -1,4 +1,6 @@
-﻿Console.Clear();
+﻿using System.Security.Cryptography;
+
+Console.Clear();
 
 Console.WriteLine("--- Pedra, Papel e Tesoura ---\n");
 Console.WriteLine("Pedra = 0, Papel = 1, Tesoura = 2\n");
