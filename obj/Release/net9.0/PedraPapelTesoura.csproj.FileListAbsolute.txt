@@ -1,0 +1,15 @@
+C:\Users\lab53\Documents\PedraPapelTesoura\bin\Release\net9.0\PedraPapelTesoura.exe
+C:\Users\lab53\Documents\PedraPapelTesoura\bin\Release\net9.0\PedraPapelTesoura.deps.json
+C:\Users\lab53\Documents\PedraPapelTesoura\bin\Release\net9.0\PedraPapelTesoura.runtimeconfig.json
+C:\Users\lab53\Documents\PedraPapelTesoura\bin\Release\net9.0\PedraPapelTesoura.dll
+C:\Users\lab53\Documents\PedraPapelTesoura\bin\Release\net9.0\PedraPapelTesoura.pdb
+C:\Users\lab53\Documents\PedraPapelTesoura\obj\Release\net9.0\PedraPapelTesoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab53\Documents\PedraPapelTesoura\obj\Release\net9.0\PedraPapelTesoura.AssemblyInfoInputs.cache
+C:\Users\lab53\Documents\PedraPapelTesoura\obj\Release\net9.0\PedraPapelTesoura.AssemblyInfo.cs
+C:\Users\lab53\Documents\PedraPapelTesoura\obj\Release\net9.0\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\Users\lab53\Documents\PedraPapelTesoura\obj\Release\net9.0\PedraPapelTesoura.sourcelink.json
+C:\Users\lab53\Documents\PedraPapelTesoura\obj\Release\net9.0\PedraPapelTesoura.dll
+C:\Users\lab53\Documents\PedraPapelTesoura\obj\Release\net9.0\refint\PedraPapelTesoura.dll
+C:\Users\lab53\Documents\PedraPapelTesoura\obj\Release\net9.0\PedraPapelTesoura.pdb
+C:\Users\lab53\Documents\PedraPapelTesoura\obj\Release\net9.0\PedraPapelTesoura.genruntimeconfig.cache
+C:\Users\lab53\Documents\PedraPapelTesoura\obj\Release\net9.0\ref\PedraPapelTesoura.dll
